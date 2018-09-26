@@ -1,0 +1,57 @@
+from selenium import webdriver
+from selenium.webdriver.support import expected_conditions as EC
+import csv
+import pandas as pd
+import re
+from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
+
+row = []
+driver = webdriver.Chrome()
+zipcode = []
+with open('zipcodestest.csv', 'r', newline='') as csvfile:
+    data = csv.reader(csvfile)
+    for line in data:
+        zipcode = line[2]
+        print(zipcode)
+        driver.get("https://www.bankrate.com/mortgage.aspx?type=newmortgage&propertyvalue=237500&loan=182400&perc=20&prods=1,2,387,388,566&fico=740&points=Zero&zipcode="+zipcode+"&cs=1")
+        try:
+            driver.implicitly_wait(10)
+            divs = driver.find_element_by_class_name("offers-list-wrap")
+            rows = divs.find_elements_by_tag_name('td')
+            print(len(rows))
+            for i in range(len(rows)):
+                data = rows[i].text.strip()
+                name3 = re.sub(r'State[\s]Lic[\s]#(MB|BK[\s])[0-9]{1,9}\n', r'', data)
+                name2 = re.sub(r'NMLS #[0-9]{1,9}\n', r'', name3)
+                name4 = re.sub(r'Offer Details\n', r'', name2)
+                name5 = re.sub(r'More Details\n', r'', name4)
+                name6 = re.sub(r'Principal & Interest\n', r'', name5)
+                name7 = re.sub(r'NEXT ARROW-CHARCOAL\n', r'', name6)
+                name8 = re.sub(r'[(][0-9][,][0-9]{1,3}[)]\n', r'', name7)
+                name9 = re.sub(r'[[|][\s]Points[:][\s][0-9]{1,2}', r'', name8)
+                name10 = re.sub(r'[0-9]{1,3}[-][0-9]{1,3}[-][0-9]{1,4}[\s][|][\s]', r'', name9)
+                name11 = re.sub(r'Updated[:][\s]', r'', name10)
+                name12 = re.sub(r'Fees[:][\s]', r'', name11)
+                name13 = re.sub(r'[\s][%][\s]RATE', r'', name12)
+                name14 = re.sub(r'[(][0-9]{1,3}[)]\n', r'', name13)
+                name1 = re.sub(r'State[\s]Lic[\s]#[0-9]{1,9}\n', r'', name14)
+                name = re.sub(r'[\s][%][\s]APR', r'', name1)
+                row.append(name)
+                
+        except NoSuchElementException:
+            continue
+
+driver.close()
+
+df=pd.DataFrame(row, columns = ['row'])
+df['Bank'] = df.row.str.split('\n').str[0]
+df['Rate'] = df.row.str.split('\n').str[1]
+df['Product Type'] = df.row.str.split('\n').str[2]
+df['APR'] = df.row.str.split('\n').str[3]
+df['Fee'] = df.row.str.split('\n').str[4]
+df['Monthly Payment'] = df.row.str.split('\n').str[5]
+df['Updated'] = df.row.str.split('\n').str[6]
+df_new = pd.concat([df['Bank'], df['Rate'], df['Product Type'], df['APR'], df['Fee'],df['Monthly Payment'],df['Updated']], axis = 1)
+print(df_new)
+df_new.to_csv('mortage.csv')

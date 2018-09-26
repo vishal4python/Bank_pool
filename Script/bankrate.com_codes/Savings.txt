@@ -1,0 +1,59 @@
+from selenium import webdriver
+from selenium.webdriver.support import expected_conditions as EC
+import csv
+import pandas as pd
+import re
+from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+
+row = []
+driver = webdriver.Chrome()
+driver.get("https://www.bankrate.com/banking/savings/rates/")
+driver.implicitly_wait(30)
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[2]/div/p').click()
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[2]/div/div/div[1]/ul/li[2]').click()
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[2]/div/p').click()
+driver.implicitly_wait(30)
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[3]/div/div[1]/div/div/input').clear()
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[3]/div/div[1]/div/div/input').send_keys('10001')
+driver.implicitly_wait(120)
+driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div[2]/div[3]/div/div[1]/div/div/input').send_keys(Keys. ENTER)
+driver.implicitly_wait(40)
+driver.maximize_window()
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+wait = WebDriverWait(driver, 20)
+wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="app"]/div/div[2]/div[2]/button')))
+for i in range(0,2):
+    driver.find_element_by_xpath('//*[@id="app"]/div/div[2]/div[2]/button').click()
+    driver.implicitly_wait(40)
+                       
+rows = driver.find_elements_by_tag_name('tr')
+for i in range(len(rows)):
+        data = rows[i].text.strip()
+        name1 = re.sub(r'Offer Details\n', r'', data)
+        name2 = re.sub(r'Available locally\n', r'', name1)
+        name3 = re.sub(r'\n{2,}',r'', name2)
+        name4 = re.sub(r'[|]\n', r'', name3)
+        name5 = re.sub(r'NR\n', r'', name4)
+        name = re.sub(r'[\t]+',r'', name5)
+        row.append(name)
+        print(name)
+
+driver.implicitly_wait(400)
+driver.close()
+
+df=pd.DataFrame(row, columns = ['row'])
+df['Bank'] = df.row.str.split('\n').str[0]
+df['Product Type'] = df.row.str.split('\n').str[1]
+df['Member'] = df.row.str.split('\n').str[2]
+df['APY'] = df.row.str.split('\n').str[3]
+df['Minimum Balance'] = df.row.str.split('\n').str[4]
+df['Updated'] = df.row.str.split('\n').str[5]
+df_new = pd.concat([df['Bank'], df['Product Type'], df['APY'], df['Minimum Balance'], df['Updated']], axis = 1)
+drop_nan = df_new.index[df_new['APY']=='NaN'].tolist()
+df_new = df_new.drop([0,1,2])
+df_new = df_new.reset_index(drop = True)
+print(df_new)
+df_new.to_csv('savings.csv')
