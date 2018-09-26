@@ -1,0 +1,65 @@
+Error Location,Error Type,Row Number,Value,Column Name,Bank_Name
+allowedFieldError,Value Not found,94,25%,Mortgage_Down_Payment,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,97,5%,Mortgage_Down_Payment,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,98,0%,Mortgage_Down_Payment,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,99,0%,Mortgage_Down_Payment,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,100,0%,Mortgage_Down_Payment,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,101,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,102,0,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,103,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,104,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,105,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,106,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,107,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,108,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,109,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,110,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,111,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,112,0,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,113,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,114,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,115,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,116,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,117,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,118,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,119,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,120,25,Mortgage_Down_Payment,WELLS FARGO
+allowedFieldError,Value Not found,9,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,10,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,11,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,12,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,13,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,14,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,15,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,16,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,17,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,18,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,19,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,20,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,21,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,22,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,23,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,24,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,25,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,26,740+,Credit_Score,BANK OF AMERICA CORP
+allowedFieldError,Value Not found,97,660,Credit_Score,SUNTRUST BANKS INC
+allowedFieldError,Value Not found,101,7400.125250.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,102,7400.375774.75,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,103,7400.125250.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,104,7400.125250.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,105,7400.25500.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,106,7400.25500.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,107,7800.251875.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,108,7800.251875.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,109,7800.3752812.50,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,110,7800.3752812.50,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,111,7400.25500.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,112,7400.375774.75,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,113,7400.51000.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,114,7400.51000.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,115,7400.125250.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,116,7400.51000.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,117,7800.125937.50,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,118,7800.251875.00,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,119,7800.3752812.50,Credit_Score,WELLS FARGO
+allowedFieldError,Value Not found,120,7800.3752812.50,Credit_Score,WELLS FARGO
