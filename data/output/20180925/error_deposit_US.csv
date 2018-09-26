@@ -1,0 +1,4 @@
+Error Location,Error Type,Row Number,Value,Column Name,Bank_Name
+Comparison Error,More Than Expected Value,22,"[1.85, 1.8345]",Interest,CAPITAL ONE
+Comparison Error,More Than Expected Value,26,"[2.5, 2.4718]",Interest,CITIGROUP INC
+Comparison Error,More Than Expected Value,27,"[2.7, 2.6672]",Interest,CITIGROUP INC
