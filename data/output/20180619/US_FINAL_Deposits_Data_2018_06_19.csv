@@ -1,0 +1,315 @@
+Date,Bank_Native_Country,State,Bank_Name,Ticker,Bank_Local_Currency,Bank_Type,Bank_Product,Bank_Product_Type,Bank_Product_Code,Bank_Product_Name,Minm_Balance,Maxm_Balance,Bank_Offer_Feature,Term_in_Months,Interest_Type,Interest,APY,Source
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,,15000.0,Online,,Fixed,,0.10%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,15000.0,,Online,,Fixed,,0.60%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Online Savings,,,Online,,Fixed,,1.65%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Money Market,,5000.0,Online,,Fixed,,0.90%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Money Market,5000.0,,Online,,Fixed,,0.90%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Money Market,25000.0,,Online,,Fixed,,1.00%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD_6 Months,,5000.0,Online,6.0,Fixed,,1.75%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD_6 Months,5000.0,,Online,6.0,Fixed,,1.85%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD_6 Months,25000.0,,Online,6.0,Fixed,,2.00%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,12MCDF,High Yield CD_12 Months,,5000.0,Online,12.0,Fixed,,2.10%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,12MCDF,High Yield CD_12 Months,5000.0,,Online,12.0,Fixed,,2.20%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,12MCDF,High Yield CD_12 Months,25000.0,,Online,12.0,Fixed,,2.30%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,36MCDF,High Yield CD_36 Months,,5000.0,Online,36.0,Fixed,,2.40%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,36MCDF,High Yield CD_36 Months,5000.0,,Online,36.0,Fixed,,2.45%,Bank Website
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,36MCDF,High Yield CD_36 Months,25000.0,,Online,36.0,Fixed,,2.50%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Savings,_MSBF,Rewards Savings/Minor Savings,,2500.0,Offline,,Fixed,0.03%,0.03%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Savings,_MSBF,Rewards Savings/Minor Savings,2500.0,,Offline,,Fixed,0.03%,0.03%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Bank of America Interest Checking,,50000.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Bank of America Interest Checking,50000.0,99999.0,Offline,,Fixed,0.02%,0.02%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Bank of America Interest Checking,100000.0,,Offline,,Fixed,0.02%,0.02%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,06 - 11 Months,,10000.0,Offline,6.0,Fixed,0.03%,0.03%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,12 - 17 Months,,10000.0,Offline,12.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,36 - 47 Months,,10000.0,Offline,36.0,Fixed,0.55%,0.55%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Money Market,,10000.0,Online,,Fixed,0.8467%,0.85%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Money Market,10000.0,,Online,,Fixed,1.5884%,1.60%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Savings,0.0,,Online,,Fixed,0.9954%,1.00%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 IRA Savings Traditional,0.0,,Online,,Fixed,0.9954%,1.00%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,6MCDF,360 CDs 6 months,1000000.0,,Online,6.0,Fixed,0.5984%,0.60%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,12MCDF,360 CDs 12 months,1000000.0,,Online,12.0,Fixed,2.2271%,2.25%,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,36MCDF,360 CDs 36 months,1000000.0,,Online,36.0,Fixed,2.3740%,2.40%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,,25000.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,25000.0,49999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,50000.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,,10000.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,10000.0,24999.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,25000.0,49999.0,Offline,,Fixed,0.08%,0.08%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,50000.0,99999.0,Offline,,Fixed,0.08%,0.08%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,100000.0,499999.0,Offline,,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,500000.0,999999.0,Offline,,Fixed,0.13%,0.13%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Account Package1,1000000.0,,Offline,,Fixed,0.13%,0.13%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,,10000.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,10000.0,24999.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,25000.0,49999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,50000.0,99999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,100000.0,499999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,500000.0,999999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Basic Banking Package,1000000.0,,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,,10000.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,10000.0,24999.0,Offline,,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,25000.0,49999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,50000.0,99999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,100000.0,499999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,500000.0,999999.0,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Access Account Package,1000000.0,,Offline,,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,,10000.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,10000.0,24999.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,25000.0,49999.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,50000.0,99999.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,100000.0,499999.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,500000.0,999999.0,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,6 months,1000000.0,,Offline,6.0,Fixed,0.07%,0.07%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,,10000.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,10000.0,24999.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,25000.0,49999.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,50000.0,99999.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,100000.0,499999.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,500000.0,999999.0,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,1 year,1000000.0,,Offline,12.0,Fixed,0.25%,0.25%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,,10000.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,10000.0,24999.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,25000.0,49999.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,50000.0,99999.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,100000.0,499999.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,500000.0,999999.0,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,3 years,1000000.0,,Offline,36.0,Fixed,0.70%,0.70%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Plus Checking SM,0.0,4999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Plus Checking SM,5000.0,9999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Plus Checking SM,10000.0,24999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Plus Checking SM,25000.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Savings,_MSBF,Chase Savings SM,,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,6MCDF,CERTIFICATES OF DEPOSIT (CD),1000.0,,Offline,6.0,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,12MCDF,CERTIFICATES OF DEPOSIT (CD),1000.0,,Offline,12.0,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,36MCDF,CERTIFICATES OF DEPOSIT (CD),1000.0,,Offline,36.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Interest Checking,10000.0,49999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Interest Checking,50000.0,99999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Interest Checking,100000.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Select Interest Checking,2000.0,9999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Select Interest Checking,10000.0,49999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Select Interest Checking,50000.0,99999.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Select Interest Checking,100000.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,Standard Rates,1.0,2499.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,Standard Rates,2500.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,'S' is for Savings,1.0,499.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,'S' is for Savings,500.0,1499.0,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,'S' is for Savings,1500.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",1.0,9999.0,Offline,,Fixed,0.03%,0.03%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",10000.0,24999.0,Offline,,Fixed,0.09%,0.09%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",25000.0,49999.0,Offline,,Fixed,0.11%,0.11%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",50000.0,99999.0,Offline,,Fixed,0.13%,0.13%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",100000.0,249999.0,Offline,,Fixed,0.15%,0.15%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",250000.0,499999.0,Offline,,Fixed,0.15%,0.15%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",500000.0,999999.0,Offline,,Fixed,0.17%,0.17%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,"Premiere
+														Money Market Account ",1000000.0,,Offline,,Fixed,0.17%,0.17%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,1.0,999.0,Offline,6.0,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,1000.0,9999.0,Offline,6.0,Fixed,0.06%,0.06%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,10000.0,24999.0,Offline,6.0,Fixed,0.08%,0.08%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,25000.0,99999.0,Offline,6.0,Fixed,0.1%,0.1%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,100000.0,499999.0,Offline,6.0,Fixed,0.12%,0.12%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,Fixed Rate Certificate of Deposit,500000.0,,Offline,6.0,Fixed,0.14%,0.14%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,1.0,999.0,Offline,12.0,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,1000.0,9999.0,Offline,12.0,Fixed,0.15%,0.15%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,10000.0,24999.0,Offline,12.0,Fixed,0.18%,0.18%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,25000.0,99999.0,Offline,12.0,Fixed,0.2%,0.2%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,100000.0,499999.0,Offline,12.0,Fixed,0.22%,0.22%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Fixed Rate Certificate of Deposit,500000.0,,Offline,12.0,Fixed,0.24%,0.24%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,1.0,999.0,Offline,36.0,Fixed,0.04%,0.04%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,1000.0,9999.0,Offline,36.0,Fixed,0.3%,0.3%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,10000.0,24999.0,Offline,36.0,Fixed,0.35%,0.35%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,25000.0,99999.0,Offline,36.0,Fixed,0.4%,0.4%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,100000.0,499999.0,Offline,36.0,Fixed,0.45%,0.45%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,Fixed Rate Certificate of Deposit,500000.0,,Offline,36.0,Fixed,0.5%,0.5%,Bank Website
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,Ready Access Certificate of Deposit,1000.0,,Offline,12.0,Fixed,0.15%,0.15%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,1000.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,,2499.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,2500.0,9999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,10000.0,24999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,25000.0,49999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,50000.0,99999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,100000.0,249999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,250000.0,499999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,500000.0,999999.0,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Select Savings,1.0,,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Balanced Banking,3000.0,,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Essential Checking,500.0,,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Select Checking,,2499.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Select Checking,2500.0,9999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Select Checking,10000.0,24999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Select Checking,25000.0,,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,,9999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,10000.0,24999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,25000.0,49999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,50000.0,99999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,100000.0,249999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,250000.0,499999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,500000.0,999999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,1000000.0,1999999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Signature Advantage Checking,2000000.0,,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,,9999.0,Offline,,Fixed,,0.01%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,10000.0,24999.0,Offline,,Fixed,,0.03%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,25000.0,49999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,50000.0,99999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,100000.0,249999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,250000.0,499999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,500000.0,999999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,1000000.0,1999999.0,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Savings,_MSBF,Signature Advantage Brokerage,2000000.0,,Offline,,Fixed,,0.05%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,6MCDF,CD_6 MONTH,2000.0,,Online,6.0,Fixed,,1.0%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,12MCDF,CD_12 MONTH,2000.0,,Online,12.0,Fixed,,2.25%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,36MCDF,CD_36 MONTH,2000.0,,Online,36.0,Fixed,,2.55%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,Money Market Rates and Terms,0.0,4999.0,Online,,Fixed,,1.05%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,Money Market Rates and Terms,5000.0,24999.0,Online,,Fixed,,1.05%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,Money Market Rates and Terms,25000.0,99999999999.0,Online,,Fixed,,1.05%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,HYS Rates and Terms,0.0,4999.0,Online,,Fixed,,1.75%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,HYS Rates and Terms,5000.0,24999.0,Online,,Fixed,,1.75%,Bank Website
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,HYS Rates and Terms,25000.0,99999999999.0,Online,,Fixed,,1.75%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Wells Fargo Way2Save Savings,0.0,,Offline,,Fixed,0.01%,0.01%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Platinum Savings - Standard Interest Rate,0.0,99999.0,Offline,,Fixed,0.03%,0.03%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Platinum Savings - Standard Interest Rate,100000.0,,Offline,,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,0.0,4999.0,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,5000.0,9999.0,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,10000.0,24999.0,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,25000.0,49999.0,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,50000.0,99999.0,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Standard CD Rates,100000.0,,Offline,6.0,Fixed,0.05%,0.05%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,0.0,4999.0,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,5000.0,9999.0,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,10000.0,24999.0,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,25000.0,49999.0,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,50000.0,99999.0,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Standard CD Rates,100000.0,,Offline,12.0,Fixed,0.10%,0.10%,Bank Website
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Checking,_MCCF,Wells Fargo Everyday Checking,,,Offline,,Fixed,,,Bank Website
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,Savings,10000.0,,Online,,Fixed,,1.60%,Bankrate.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,Savings,0.0,,Online,,Fixed,,1.75%,Bankrate.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Moneymarket,100.0,,Offline,,Fixed,,0.04%,Bankrate.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Savings,_MSBF,Savings,100.0,,Offline,,Fixed,,0.03%,Bankrate.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Savings,_MSBF,Savings,25.0,,Offline,,Fixed,,0.01%,Bankrate.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,36MCDF,CD,2000.0,,Online,36.0,Fixed,,2.55%,Bankrate.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,36MCDF,CD,0.0,,Online,36.0,Fixed,,2.40%,Bankrate.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,12MCDF,CD,0.0,,Online,12.0,Fixed,,2.25%,Bankrate.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,12MCDF,CD,2000.0,,Online,12.0,Fixed,,2.25%,Bankrate.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,CD,25000.0,,Online,6.0,Fixed,,2.00%,Bankrate.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Online Savings Account,,,Online,,Fixed,,1.65%,DepositAccounts.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,High Yield Savings,,,Online,,Fixed,,1.75%,DepositAccounts.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citi Savings Account,10000.0,,Offline,,Fixed,,1.60%,DepositAccounts.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,15000.0,,Online,,Fixed,,0.60%,DepositAccounts.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield 6-Month CD,25000.0,,Online,6.0,Fixed,,2.00%,DepositAccounts.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,12MCDF,High Yield 12-Month CD,25000.0,,Online,12.0,Fixed,,2.30%,DepositAccounts.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,12MCDF,12 Month 360 CD,,,Offline,12.0,Fixed,,2.25%,DepositAccounts.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,12MCDF,12 Month CD,2000.0,,Online,12.0,Fixed,,2.25%,DepositAccounts.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,36MCDF,36 Month CD,2000.0,,Online,36.0,Fixed,,2.55%,DepositAccounts.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,36MCDF,High Yield 3 Year CD,25000.0,,Online,36.0,Fixed,,2.50%,DepositAccounts.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Savings Account,,,Offline,,Fixed,,1.00%,DepositAccounts.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Savings,_MSBF,Rewards Savings,,,Offline,,Fixed,,0.03%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Savings,_MSBF,Chase Premier Savings - Standard,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Platinum Savings - Standard Interest Rate,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,Standard Savings,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Checking,_MCCF,360 Checking,,,Offline,,Fixed,,0.20%,DepositAccounts.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Citibank Account Package,25000.0,,Offline,,Fixed,,0.08%,DepositAccounts.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Bank of America Interest Checking,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Platinum Checking,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Checking,_MCCF,Performance Interest Checking,2000.0,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Checking,_MCCF,Preferred Checking ,500.0,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,SUNTRUST BANKS INC,STI,USD,Bank,Deposits,Checking,_MCCF,Select Checking,,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,6 - 11 Month CD,1000.0,,Offline,6.0,Fixed,,0.03%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,6MCDF,6-8 Month CD - Standard,1000.0,100000.0,Offline,6.0,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,12 Month CD,25000.0,,Offline,12.0,Fixed,,0.18%,DepositAccounts.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,1 Year CD,,,Offline,12.0,Fixed,,0.10%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,12MCDF,12-14 Month CD - Standard,1000.0,100000.0,Offline,12.0,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,36MCDF,36 Month 360 CD,,,Offline,36.0,Fixed,,2.40%,DepositAccounts.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,36 - 47 Month CD,1000.0,,Offline,36.0,Fixed,,0.55%,DepositAccounts.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,36 Month Callable CD Special,10000.0,,Offline,36.0,Fixed,,0.50%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,36MCDF,36-41 Month CD - Standard,1000.0,,Offline,36.0,Fixed,,0.05%,DepositAccounts.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Savings,_MSBF,Chase Savings,25.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Savings,_MSBF,Rewards Savings,0.0,,Offline,,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citi Savings Account,0.0,,Offline,,Fixed,,0.04%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citi Savings Account,25000.0,,Offline,,Fixed,,0.06%,mybanktracker.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Way2Save,0.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,Standard Savings,1.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,High Yield Savings,0.0,,Online,,Fixed,,1.7500000000000002%,mybanktracker.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Online Savings Account,0.0,,Online,,Fixed,,1.6500000000000001%,mybanktracker.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Money Market,10000.0,,Online,,Fixed,,1.6%,mybanktracker.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Checking,_MCCF,360 Checking,0.0,,Online,,Fixed,,0.2%,mybanktracker.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Checking,_MCCF,360 Checking,50000.0,,Online,,Fixed,,0.75%,mybanktracker.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Checking,_MCCF,360 Checking,100000.0,,Online,,Fixed,,1.0%,mybanktracker.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking,0.0,,Online,,Fixed,,0.1%,mybanktracker.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking,15000.0,,Online,,Fixed,,0.6%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,1.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Checking,_MCCF,Preferred Package,500.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Advantage with Tiered Interest Checking,0.0,,Offline,,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Advantage with Tiered Interest Checking,1000.0,,Offline,,Fixed,,0.02%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,Checking,_MCCF,Advantage with Tiered Interest Checking,10000.0,,Offline,,Fixed,,0.02%,mybanktracker.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,12MCDF,12 Month CD for RT,2000.0,,Online,12.0,Fixed,,2.25%,mybanktracker.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,36MCDF,36 Month CD for RT,2000.0,,Online,36.0,Fixed,,2.55%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,1.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,1.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,1.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,10000.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,10000.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,10000.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,25000.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,25000.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,25000.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,50000.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,50000.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,50000.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,100000.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,100000.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,100000.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,6MCDF,Bank of America CDs RT Organic,500000.0,,Offline,6.0,Fixed,,0.03%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,12MCDF,Bank of America CDs RT Organic,500000.0,,Offline,12.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,BANK OF AMERICA CORP,BAC,USD,Bank,Deposits,CD,36MCDF,Bank of America CDs RT Organic,500000.0,,Offline,36.0,Fixed,,0.5499999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,6MCDF,Citibank CDs RT Organic,1.0,,Offline,6.0,Fixed,,0.06999999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,12MCDF,Citibank CDs RT Organic,1.0,,Offline,12.0,Fixed,,0.15%,mybanktracker.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,CD,36MCDF,Citibank CDs RT Organic,1.0,,Offline,36.0,Fixed,,0.5%,mybanktracker.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,6MCDF,Wells Fargo CDs RT Organic,1.0,,Offline,6.0,Fixed,,0.05%,mybanktracker.com
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Wells Fargo CDs RT Organic,1.0,,Offline,12.0,Fixed,,0.1%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,1.0,,Offline,6.0,Fixed,,0.04%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,1000.0,,Offline,6.0,Fixed,,0.06%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,10000.0,,Offline,6.0,Fixed,,0.08%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,25000.0,,Offline,6.0,Fixed,,0.1%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,100000.0,,Offline,6.0,Fixed,,0.12%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,6MCDF,PNC CDs RT Organic,500000.0,,Offline,6.0,Fixed,,0.13999999999999999%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,1.0,,Offline,12.0,Fixed,,0.04%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,1000.0,,Offline,12.0,Fixed,,0.15%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,10000.0,,Offline,12.0,Fixed,,0.18%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,25000.0,,Offline,12.0,Fixed,,0.2%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,100000.0,,Offline,12.0,Fixed,,0.22%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,12MCDF,PNC CDs RT Organic,500000.0,,Offline,12.0,Fixed,,0.24%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,1.0,,Offline,36.0,Fixed,,0.04%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,1000.0,,Offline,36.0,Fixed,,0.3%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,10000.0,,Offline,36.0,Fixed,,0.35000000000000003%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,25000.0,,Offline,36.0,Fixed,,0.4%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,100000.0,,Offline,36.0,Fixed,,0.44999999999999996%,mybanktracker.com
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,CD,36MCDF,PNC CDs RT Organic,500000.0,,Offline,36.0,Fixed,,0.5%,mybanktracker.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,6MCDF,Chase CDs RT Organic,1000.0,,Offline,6.0,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,CD,12MCDF,Chase CDs RT Organic,1000.0,,Offline,12.0,Fixed,,0.01%,mybanktracker.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,36MCDF,Certificate of Deposit,2000.0,,Online,36.0,Fixed,,2.55%,nerdwallet.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,CD,12MCDF,360 CD,1.0,,Offline,12.0,Fixed,,2.25%,nerdwallet.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,12MCDF,Certificate of Deposit,2000.0,,Online,12.0,Fixed,,2.25%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD,25000.0,,Online,6.0,Fixed,,2.0%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD,5000.0,,Online,6.0,Fixed,,1.85%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,CD,6MCDF,High Yield CD,1.0,,Online,6.0,Fixed,,1.75%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Checking,_MCCF,Interest Checking Account,,,Online,,Fixed,,,nerdwallet.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Access Account,1500.0,,Offline,,Fixed,,,nerdwallet.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Simple Checking,1500.0,,Offline,,Fixed,,,nerdwallet.com
+ 2018-06-19,US,New York,JP MORGAN CHASE & Co.,JPM,USD,Bank,Deposits,Checking,_MCCF,Chase Premier Plus Checking℠,15000.0,,Offline,,Fixed,,,nerdwallet.com
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Checking,_MCCF,Priority Checking,50000.0,,Offline,,Fixed,,,nerdwallet.com
+ 2018-06-19,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,High Yield Savings Account,1.0,,Online,,Fixed,,1.75%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Online Savings Account,1.0,,Online,,Fixed,,1.65%,nerdwallet.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Money Market Account,10000.0,,Online,,Fixed,,1.6%,nerdwallet.com
+ 2018-06-19,US,New York,CAPITAL ONE,COF,USD,Bank,Deposits,Savings,_MSBF,360 Savings®,1.0,,Online,,Fixed,,1.0%,nerdwallet.com
+ 2018-06-19,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Ally Bank Savings Account,,,Online,,Fixed,1.60%,,us.deposits.org
+ 2018-06-19,US,New York,PNC FINANCIAL SERVICES GROUP INC,PNC,USD,Bank,Deposits,Savings,_MSBF,PNC Money Market Account,100.0,,Offline,,Fixed,0.17%,,us.deposits.org
+ 2018-06-19,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citibank Savings Plus Account,,,Offline,,Fixed,0.13%,,us.deposits.org
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Savings,_MSBF,Wells Fargo Business Platinum Savings Account,50.0,,Offline,,Fixed,0.06%,,us.deposits.org
+ 2018-06-19,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,CD,12MCDF,Wells Fargo 1 Year CD Rates,2500.0,,Offline,12.0,Fixed,0.10%,,us.deposits.org
