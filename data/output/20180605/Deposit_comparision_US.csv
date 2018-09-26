@@ -1,0 +1,7 @@
+Date,Bank_Native_Country,State,Bank_Name,Ticker,Bank_Local_Currency,Bank_Type,Bank_Product,Bank_Product_Type,Bank_Product_Code,Bank_Product_Name,Minm_Balance,Maxm_Balance,Bank_Offer_Feature,Term_in_Months,Interest_Type,Interest,APY,Source
+ 2018-06-05,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,CD,6MCDF,CD,2000.0,,Online,6.0,Fixed,,1.00%,Bankrate.com
+ 2018-06-05,US,New York,CITIGROUP INC,C,USD,Bank,Deposits,Savings,_MSBF,Citi Savings Account,10000.0,,Offline,,Fixed,,1.60%,DepositAccounts.com
+ 2018-06-05,US,New York,WELLS FARGO,WFC,USD,Bank,Deposits,Checking,_MCCF,Preferred Checking ,500.0,,Offline,,Fixed,,0.01%,DepositAccounts.com
+ 2018-06-05,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Online Savings Account,0.0,,Online,,Fixed,,1.6%,mybanktracker.com
+ 2018-06-05,US,New York,SYNCHRONY,SYF,USD,Bank,Deposits,Savings,_MSBF,High Yield Savings Account,1.0,,Online,,Fixed,,1.75%,nerdwallet.com
+ 2018-06-05,US,New York,ALLY,ALLY,USD,Bank,Deposits,Savings,_MSBF,Ally Bank Savings Account,,,Online,,Fixed,1.60%,,us.deposits.org
