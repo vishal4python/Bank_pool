@@ -1,0 +1,58 @@
+Date,Bank_Native_Country,State,Bank_Name,Bank_Local_Currency,Bank_Type,Bank_Product,Bank_Product_Type,Bank_Product_Code,Bank_Product_Name,Balance,Bank_Offer_Feature,Term_in_Year,Interest_Type,Interest,APY,Source
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,Savings,,Savings,0,Online,,Fixed,,1.55%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,Savings,,Savings,0,Online,,Fixed,,1.45%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,Savings,,Moneymarket,100,Offline,,Fixed,,0.04%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,Savings,,Savings,100,Offline,,Fixed,,0.03%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,Savings,,Savings,25,Offline,,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,CAPITAL ONE,USD,Bank,Deposits,CD,,CD,0,Online,60,Fixed,,2.65%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,60,Fixed,,2.50%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,60,Fixed,,2.50%,bankrate.com
+ 2018-03-29,US,New York,CAPITAL ONE,USD,Bank,Deposits,CD,,CD,0,Online,36,Fixed,,2.30%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,48,Fixed,,2.30%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,36,Fixed,,2.25%,bankrate.com
+ 2018-03-29,US,New York,CAPITAL ONE,USD,Bank,Deposits,CD,,CD,0,Online,24,Fixed,,2.20%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,24,Fixed,,2.20%,bankrate.com
+ 2018-03-29,US,New York,CAPITAL ONE,USD,Bank,Deposits,CD,,CD,0,Online,18,Fixed,,2.10%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,18,Fixed,,2.10%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,36,Fixed,,2.10%,bankrate.com
+ 2018-03-29,US,New York,CAPITAL ONE,USD,Bank,Deposits,CD,,CD,0,Online,12,Fixed,,2.05%,bankrate.com
+ 2018-03-29,US,New York,SYNCHRONY,USD,Bank,Deposits,CD,,CD,"2,000",Online,12,Fixed,,2.05%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,18,Fixed,,2.05%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,0,Online,24,Fixed,,2.00%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,0,Online,48,Fixed,,2.00%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,12,Fixed,,2.00%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,9,Fixed,,1.80%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,6,Fixed,,1.75%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,11,Fixed,,1.50%,bankrate.com
+ 2018-03-29,US,New York,ALLY,USD,Bank,Deposits,CD,,CD,"25,000",Online,3,Fixed,,1.50%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,60,Fixed,,1.00%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,60,Fixed,,0.80%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,48,Fixed,,0.75%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,36,Fixed,,0.70%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,48,Fixed,,0.65%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,36,Fixed,,0.55%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,24,Fixed,,0.50%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,12,Fixed,,0.25%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,29,Fixed,,0.25%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,60,Fixed,,0.25%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,24,Fixed,,0.10%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,29,Fixed,,0.10%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,48,Fixed,,0.10%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,6,Fixed,,0.07%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,CD,,CD,500,Offline,3,Fixed,,0.05%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,29,Fixed,,0.05%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,12,Fixed,,0.05%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,24,Fixed,,0.05%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,36,Fixed,,0.05%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,6,Fixed,,0.03%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,1,Fixed,,0.03%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,3,Fixed,,0.03%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,CD,,CD,"1,000",Offline,2,Fixed,,0.03%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,2,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,1,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,3,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,6,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,CD,,CD,"1,000",Offline,12,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,BANK OF AMERICA CORP,USD,Bank,Deposits,Checkings,,Checkings,,Offline,,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,CITIGROUP INC,USD,Bank,Deposits,Checkings,,Checkings,,Offline,,Fixed,,0.01%,bankrate.com
+ 2018-03-29,US,New York,JP MORGAN CHASE & Co.,USD,Bank,Deposits,Checkings,,Checkings,,Offline,,Fixed,,0.01%,bankrate.com

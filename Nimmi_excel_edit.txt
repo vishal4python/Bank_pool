@@ -1,0 +1,26 @@
+import pandas as pd
+import numpy as np
+result = []
+old = pd.read_excel("C:\\Users\\vishal\\Documents\\Excel_appending.xlsx")
+old
+new = pd.read_excel("C:\\Users\\vishal\\Documents\\Excel_appending_1.xlsx")
+new = new.values.tolist()
+new
+result = []
+for _old in old:
+#     print(_old)
+    found = False
+    for _new in new:
+        if _new[0] == _old[1]:
+        
+#             print(_old)
+            a = _old
+            a.append(str(_new[1]))
+#             print(a)
+            result.append(a)
+            found  = True
+            break
+    if not found:
+        result.append(_old)
+        
+result
