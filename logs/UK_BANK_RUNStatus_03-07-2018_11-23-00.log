@@ -1,0 +1,108 @@
+
+Purpose     : Extract data for Us Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##29th May,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        29th May,2018        v 0.1       Sairam      Initial development
+
+
+03/07/2018 11:23:00 AM- root         - INFO     - Starting the program execution
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_deposit_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_mortgage_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: pnc_mortgage_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: pnc_deposit.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_deposit_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_mortgage_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: capital_one_deposits_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: Ally_deposits_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: Ally_mortgage_v2.py
+
+03/07/2018 11:23:00 AM- root         - INFO     - Web-Scrapping Starting for bank: synchrony_deposits_new.py
+
+03/07/2018 11:23:25 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: synchrony_deposits_new.py
+
+03/07/2018 11:23:25 AM- root         - INFO     - Web-Scrapping Starting for bank: citi_bank.py
+
+03/07/2018 11:23:26 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: pnc_deposit.py
+
+03/07/2018 11:23:26 AM- root         - INFO     - Web-Scrapping Starting for bank: citi_mortgage.py
+
+03/07/2018 11:23:26 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: suntrust_deposit_v2.py
+
+03/07/2018 11:23:26 AM- root         - INFO     - Web-Scrapping Starting for bank: consolidated_BOA.py
+
+03/07/2018 11:23:29 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Ally_mortgage_v2.py
+
+03/07/2018 11:23:29 AM- root         - INFO     - Web-Scrapping Starting for bank: Bank_of_america_mortgage_v2.py
+
+03/07/2018 11:23:49 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Bank_of_america_mortgage_v2.py
+
+03/07/2018 11:23:49 AM- root         - INFO     - Web-Scrapping Starting for bank: Consolidate_JPM_Data_Deposit_final.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: wellsfargo_deposit_v2.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Web-Scrapping Starting for bank: JPM_mortgage_v2.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: pnc_mortgage_v2.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Web-Scrapping Starting for bank: Us_Deposits.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: wellsfargo_mortgage_v2.py
+
+03/07/2018 11:24:09 AM- root         - INFO     - Web-Scrapping Starting for bank: Us_Deposits_Mortgage.py
+
+03/07/2018 11:25:19 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Consolidate_JPM_Data_Deposit_final.py
+
+03/07/2018 11:25:19 AM- root         - INFO     - Web-Scrapping Starting for bank: bankRate.py
+
+03/07/2018 11:25:22 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Us_Deposits_Mortgage.py
+
+03/07/2018 11:25:22 AM- root         - INFO     - Web-Scrapping Starting for bank: bankRate_Mortgage.py
+
+03/07/2018 11:25:36 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: suntrust_mortgage_v2.py
+
+03/07/2018 11:25:36 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: capital_one_deposits_v2.py
+
+03/07/2018 11:25:36 AM- root         - INFO     - Web-Scrapping Starting for bank: Deposits_account.py
+
+03/07/2018 11:25:36 AM- root         - INFO     - Web-Scrapping Starting for bank: MyBankTracker_Deposits.py
+
+03/07/2018 11:26:15 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: MyBankTracker_Deposits.py
+
+03/07/2018 11:26:15 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Deposits_account.py
+
+03/07/2018 11:26:15 AM- root         - INFO     - Web-Scrapping Starting for bank: MyBankTracker_Mortgage.py
+
+03/07/2018 11:26:15 AM- root         - INFO     - Web-Scrapping Starting for bank: Nerdwallet_Bank_Deposits.py
+
+03/07/2018 11:26:19 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Ally_deposits_v2.py
+
+03/07/2018 11:26:45 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Nerdwallet_Bank_Deposits.py
+
+03/07/2018 11:26:45 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: MyBankTracker_Mortgage.py
+
+03/07/2018 11:27:41 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Us_Deposits.py
+
+03/07/2018 11:27:41 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: JPM_mortgage_v2.py
+
+03/07/2018 11:28:04 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: bankRate.py
+
+03/07/2018 11:32:20 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: consolidated_BOA.py
+
+03/07/2018 11:32:20 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: citi_mortgage.py
+

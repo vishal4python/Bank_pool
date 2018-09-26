@@ -1,0 +1,48 @@
+
+Purpose     : Extract data for UK Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##16th March,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        16th March,2018        v 0.1       Deepak      Initial development
+
+
+04/05/2018 02:00:49 PM- root         - INFO     - Starting the program execution
+
+04/05/2018 02:00:49 PM- root         - INFO     - Web-Scrapping Starting for bank: citi_bank.py
+
+04/05/2018 02:02:49 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: citi_bank.py
+
+04/05/2018 02:02:49 PM- root         - INFO     - Web-Scrapping Starting for bank: Consolidate_JPM_Data_Deposit_final.py
+
+04/05/2018 02:02:52 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Consolidate_JPM_Data_Deposit_final.py
+
+04/05/2018 02:02:52 PM- root         - INFO     - Web-Scrapping Starting for bank: consolidated_BOA.py
+
+04/05/2018 02:02:53 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: consolidated_BOA.py
+
+04/05/2018 02:02:53 PM- root         - INFO     - Web-Scrapping Starting for bank: Deposits_account.py
+
+04/05/2018 02:03:18 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Deposits_account.py
+
+04/05/2018 02:03:18 PM- root         - INFO     - Web-Scrapping Starting for bank: MyBankTracker_Deposits.py
+
+04/05/2018 02:03:24 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: MyBankTracker_Deposits.py
+
+04/05/2018 02:03:24 PM- root         - INFO     - Web-Scrapping Starting for bank: MyBankTracker_Mortgage.py
+
+04/05/2018 02:03:41 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: MyBankTracker_Mortgage.py
+
+04/05/2018 02:03:41 PM- root         - INFO     - Web-Scrapping Starting for bank: Nerdwallet_Bank_Deposits.py
+
+04/05/2018 02:04:06 PM- root         - ERROR    - Got: Error for bank: Nerdwallet_Bank_Deposits.py
+
+04/05/2018 02:04:06 PM- root         - INFO     - Web-Scrapping Starting for bank: pnc_deposit.py
+
+04/05/2018 02:04:11 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: pnc_deposit.py
+

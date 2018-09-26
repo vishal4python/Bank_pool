@@ -1,0 +1,22 @@
+
+Purpose     : Extract data for UK Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##16th March,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        16th March,2018        v 0.1       Deepak      Initial development
+
+
+04/05/2018 02:16:26 PM- root         - INFO     - Starting the program execution
+
+04/05/2018 02:16:26 PM- root         - INFO     - Web-Scrapping Starting for bank: Final_Consolidation_Deposits.py
+
+04/05/2018 02:16:41 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Final_Consolidation_Deposits.py
+
+04/05/2018 02:16:41 PM- root         - INFO     - Web-Scrapping Starting for bank: Final_Consolidation_MORTGAGE.py
+

@@ -1,0 +1,60 @@
+
+Purpose     : Extract data for Us Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##29th May,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        29th May,2018        v 0.1       Sairam      Initial development
+
+
+04/09/2018 11:38:29 AM- root         - INFO     - Starting the program execution
+
+04/09/2018 11:38:29 AM- root         - INFO     - Web-Scrapping Starting for bank: Final_Consolidation_Deposits.py
+
+04/09/2018 11:38:45 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Final_Consolidation_Deposits.py
+
+04/09/2018 11:38:45 AM- root         - INFO     - Web-Scrapping Starting for bank: Final_Consolidation_MORTGAGE.py
+
+04/09/2018 11:38:52 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Final_Consolidation_MORTGAGE.py
+
+04/09/2018 11:39:02 AM- root         - INFO     - Starting the program execution
+
+04/09/2018 11:39:02 AM- root         - INFO     - Web-Scrapping Starting for bank: Aggregator_US_DEPOSIT.py
+
+04/09/2018 11:39:22 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Aggregator_US_DEPOSIT.py
+
+04/09/2018 11:39:22 AM- root         - INFO     - Web-Scrapping Starting for bank: Aggregator_US_Mortgage.py
+
+04/09/2018 11:39:24 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: Aggregator_US_Mortgage.py
+
+04/09/2018 11:39:34 AM- root         - INFO     - Starting the program execution
+
+04/09/2018 11:39:34 AM- root         - INFO     - Web-Scrapping Starting for bank: US_bank_agg.py
+
+04/09/2018 11:39:35 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: US_bank_agg.py
+
+04/09/2018 11:39:45 AM- root         - INFO     - Starting the program execution
+
+04/09/2018 11:39:45 AM- root         - INFO     - Web-Scrapping Starting for bank: validation_checker_deposit.py
+
+04/09/2018 11:39:46 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: validation_checker_deposit.py
+
+04/09/2018 11:39:46 AM- root         - INFO     - Web-Scrapping Starting for bank: validation_checker_mortgage.py
+
+04/09/2018 11:39:47 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: validation_checker_mortgage.py
+
+04/09/2018 11:39:57 AM- root         - INFO     - Starting the program execution
+
+04/09/2018 11:39:57 AM- root         - INFO     - Web-Scrapping Starting for bank: comparing_excel_deposits.py
+
+04/09/2018 11:39:57 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: comparing_excel_deposits.py
+
+04/09/2018 11:39:57 AM- root         - INFO     - Web-Scrapping Starting for bank: comparing_excel_mortgages.py
+
+04/09/2018 11:39:57 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: comparing_excel_mortgages.py
+

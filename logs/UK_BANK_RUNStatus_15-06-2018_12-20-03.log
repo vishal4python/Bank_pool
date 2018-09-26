@@ -1,0 +1,44 @@
+
+Purpose     : Extract data for Us Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##29th May,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        29th May,2018        v 0.1       Sairam      Initial development
+
+
+15/06/2018 12:20:03 PM- root         - INFO     - Starting the program execution
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_deposit_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_mortgage_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: pnc_mortgage_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: pnc_deposit.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_deposit_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_mortgage_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: capital_one_deposits_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: Ally_deposits_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: Ally_mortgage_v2.py
+
+15/06/2018 12:20:03 PM- root         - INFO     - Web-Scrapping Starting for bank: synchrony_deposits_new.py
+
+15/06/2018 12:20:07 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: suntrust_mortgage_v2.py
+
+15/06/2018 12:20:07 PM- root         - INFO     - Web-Scrapping Starting for bank: citi_bank.py
+
+15/06/2018 12:20:09 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: suntrust_deposit_v2.py
+
+15/06/2018 12:20:09 PM- root         - INFO     - Web-Scrapping Starting for bank: citi_mortgage.py
+

@@ -1,0 +1,24 @@
+
+Purpose     : Extract data for Us Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##29th May,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        29th May,2018        v 0.1       Sairam      Initial development
+
+
+03/07/2018 04:25:49 PM- root         - INFO     - Starting the program execution
+
+03/07/2018 04:25:49 PM- root         - INFO     - Web-Scrapping Starting for bank: comparing_excel_deposits.py
+
+03/07/2018 04:25:49 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: comparing_excel_deposits.py
+
+03/07/2018 04:25:49 PM- root         - INFO     - Web-Scrapping Starting for bank: comparing_excel_mortgages.py
+
+03/07/2018 04:25:49 PM- root         - INFO     - Succesfully Web-Scrapping completed for bank: comparing_excel_mortgages.py
+

@@ -1,0 +1,40 @@
+
+Purpose     : Extract data for Us Banks
+
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##29th May,2018    ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date                   Version     Author      Description
+        29th May,2018        v 0.1       Sairam      Initial development
+
+
+29/06/2018 09:48:53 AM- root         - INFO     - Starting the program execution
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_deposit_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: wellsfargo_mortgage_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: pnc_mortgage_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: pnc_deposit.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_deposit_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: suntrust_mortgage_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: capital_one_deposits_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: Ally_deposits_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: Ally_mortgage_v2.py
+
+29/06/2018 09:48:53 AM- root         - INFO     - Web-Scrapping Starting for bank: synchrony_deposits_new.py
+
+29/06/2018 09:49:23 AM- root         - INFO     - Succesfully Web-Scrapping completed for bank: synchrony_deposits_new.py
+
+29/06/2018 09:49:23 AM- root         - INFO     - Web-Scrapping Starting for bank: citi_bank.py
+
