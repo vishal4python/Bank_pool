@@ -1,0 +1,19 @@
+
+Purpose     : Extract data from comparefirst
+        #####################     Change log   ###############################
+        ##------------------------------------------------------------------##
+        ##  Author              ##Date                ##Current Version     ##
+        ##------------------------------------------------------------------##
+        ## Moody's Analytics    ##11th July, 2018     ##V1.0                ##
+        ##------------------------------------------------------------------##
+        ######################################################################
+        Date              Version     Author      Description
+        11th July, 2018   v 1.0       Vishal      Data Extraction
+
+
+2018-11-08 10:38:26,415 - 42 - INFO      - Program Execution Started Time10:38:26.415449
+2018-11-08 10:43:22,408 - 81 - INFO      - Round 2 completed
+2018-11-08 10:48:17,839 - 85 - INFO      - Missed data ['ATL', 'ORD', 'LAX', 'DFW', 'JFK', 'DEN', 'SFO', 'LAS', 'CLT', 'MIA', 'PHX', 'IAH', 'SEA', 'MCO', 'EWR', 'MSP', 'BOS', 'DTW', 'PHL', 'LGA', 'FLL', 'BWI', 'DCA', 'MDW', 'SLC', 'IAD', 'SAN', 'HNL', 'TPA', 'PDX']
+2018-11-08 10:48:17,839 - 86 - INFO      - Total Locations = (30, 30) and missed location
+2018-11-08 10:48:17,959 - 100 - INFO      - File Name : C:\Users\vishal\PycharmProjects\Car_rental_scripts\Car_rental_scripts\output\08-11-2018\enterpriseCarData.xlsx
+2018-11-08 10:48:17,959 - 101 - INFO      - Total Execution Time is 9.859063907464344 Min
